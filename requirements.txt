@@ -1,0 +1,6 @@
+pkuseg
+lac
+hanlp
+jiagu
+monpa
+thulac
