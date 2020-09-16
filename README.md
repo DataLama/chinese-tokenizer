@@ -9,7 +9,6 @@ The most basic feature of chinese tokenizer is word segmentation
 - developed by peking university
 - https://github.com/lancopku/pkuseg-python
 
-
 **LAC**
 - bi-gru + crf (seg, pos, ner)
 - developed by baidu
@@ -41,5 +40,10 @@ The most basic feature of chinese tokenizer is word segmentation
 - https://github.com/ShannonAI/glyce
 
 
+> hanlp, LAC is good to use.
 
-chinese word segmentation comparison test
+
+### 2) Chinese KeyPhrase Extractor
+- hanlp + pos
+- lac + pos
+- BERT-JointKPE
